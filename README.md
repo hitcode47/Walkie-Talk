@@ -86,13 +86,13 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 
 ## 🎥 Mídia    
 
-- **Vídeo 1 – Demonstração básica**  
+- **Vídeo 1 – Visão PCB**  
   [![Vídeo 1](./media/video1_thumb.png)](https://youtu.be/KtvOQ1vCON0)  
 
-- **Vídeo 2 – Teste de alcance**  
+- **Vídeo 2 – Visão Compacta**  
   [![Vídeo 2](./media/video2_thumb.png)](https://youtu.be/7ha7i7AOuKI)  
 
-- **Vídeo 3 – Montagem do protótipo**  
+- **Vídeo 3 – Visão Explodida**  
   [![Vídeo 3](./media/video3_thumb.png)](https://youtu.be/o6cVx7rBvNw)  
 
 ---
