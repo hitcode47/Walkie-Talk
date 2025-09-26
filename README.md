@@ -75,10 +75,17 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 
 ---
 
-## 🎥 Mídia
-- Fotos do protótipo em diferentes etapas.  
-- Vídeos de funcionamento.  
-- QR Code para acesso rápido a demonstrações.  
+## 🎥 Mídia  
+
+- **Vídeo 1 – Demonstração básica**  
+  ![Vídeo 1]((https://github.com/hitcode47/Walkie-Talk/blob/main/V%C3%ADdeos/take1%20-%20vis%C3%A3o%20explidida.mkv))  
+
+- **Vídeo 2 – Teste de alcance**  
+  [![Vídeo 2](./media/video2_thumb.png)](https://www.youtube.com/watch?v=VIDEO_ID_2)  
+
+- **Vídeo 3 – Montagem do protótipo**  
+  [![Vídeo 3](./media/video3_thumb.png)](https://www.youtube.com/watch?v=VIDEO_ID_3)  
+  
 
 ---
 
