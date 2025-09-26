@@ -1,13 +1,12 @@
 # 📡 Walkie-Talk
 Este modelo de **rádio comunicador** faz parte de um projeto de melhoria no âmbito da iniciativa **PETEE Protótipos (UFMG)**.  
 
-O objetivo geral é oferecer uma documentação **didática e funcional**, além de contribuir para a diversificação do acervo de protótipos.  
-
 Como proposta inicial, foi desenvolvido um protótipo voltado à experimentação em **Telecomunicações** e **Eletrônica de Potência**, aplicável em disciplinas e oficinas de extensão.  
 
 ---
 
 ## 📌 Objetivo 
+- oferecer uma documentação **didática e funcional**, além de contribuir para a diversificação do acervo de protótipos.  
 - Demonstrar os conceitos de **transmissão e recepção de sinais de rádio**.  
 - Produzir um protótipo de **baixo custo e replicável**, acessível para estudantes.  
 - Apoiar atividades de ensino e extensão com um material prático e interativo.  
