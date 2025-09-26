@@ -60,6 +60,15 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 
 ---
 
+## 📐 Esquemáticos
+- **Esquemático**  
+  ![Walkie Talk](https://github.com/hitcode47/Walkie-Talk/blob/main/Imagens%20e%20esquem%C3%A1ticos/esquem%C3%A1tico_WT.png)  
+
+- **Footprint**  
+  ![Walkie Talk](https://github.com/hitcode47/Walkie-Talk/blob/main/Imagens%20e%20esquem%C3%A1ticos/esquem%C3%A1tico_footprint_WT.png)  
+
+
+---
 ## 🖼️ Modelos 3D  
 
 - 📂 [Arquivos de carcaça e suporte (STL/STEP)](./3d_models)  
@@ -89,20 +98,13 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 
 ---
 
-## 🛠️ Processo de Produção
+## 🛠️ Processo de Produção (Ainda em construção)
 1. **Definição de requisitos** (alcance, custo, alimentação).  
 2. **Projeto esquemático** no KiCad.  
 3. **Protótipo em breadboard** para testes iniciais.  
 4. **PCB** e montagem final.  
 5. **Testes de calibração e validação**.  
 6. **Documentação e publicação** no GitHub.  
-
----
-
-## 📐 Esquemáticos
-- Diagramas completos em **KiCad**.  
-- Versão PDF para consulta rápida.  
-*(Inserir links para `/hardware/esquematico.pdf` ou `/hardware/kicad_project`)*  
 
 ---
 
