@@ -49,8 +49,14 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 ---
 
 ## 🧰 Materiais Usados
-- [ ] Lista de materiais em formato **BOM (Bill of Materials)** com código, valor e fornecedor.  
-*(Exemplo: resistor 1kΩ – 1/4W – Mouser #xxxx)*  
+| Referência | Quantidade | Valor / Modelo | Descrição                             | Datasheet                                                   |
+| ---------- | ---------- | -------------- | ------------------------------------- | ----------------------------------------------------------- |
+| BT1        | 1          | 1042           | Suporte de bateria                    | –                                                           |
+| D1         | 1          | 1N4148WT       | Diodo retificador rápido, 75V / 0.15A | [PDF](https://www.diodes.com/assets/Datasheets/ds30396.pdf) |
+| LS1        | 1          | POM-3542P-R    | Microfone eletreto                    | –                                                           |
+| LS2        | 1          | KSSG2308       | Alto-falante                          | –                                                           |
+| S1         | 1          | PB400OAQR1BLK  | Botão push-button                     | –                                                           |
+| SATRX1     | 1          | SA828U         | Módulo de rádio UHF                   | –                                                           |
 
 ---
 
