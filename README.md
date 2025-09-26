@@ -60,10 +60,18 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 
 ---
 
-## 🖼️ Modelos 3D
-- Arquivos de carcaça e suporte em **STL/STEP**.  
-- Visualização no KiCad / Fusion 360.  
-*(Inserir link ou pasta `/3d_models`)*  
+## 🖼️ Modelos 3D  
+
+- 📂 [Arquivos de carcaça e suporte (STL/STEP)](./3d_models)  
+
+### PCB  
+
+- **Modelo Frontal**  
+  ![PCB Frontal](https://github.com/hitcode47/Walkie-Talk/blob/main/Imagens%20e%20esquem%C3%A1ticos/walkie%20talk.png)  
+
+- **Modelo de Fundo**  
+  ![PCB Fundo](https://github.com/hitcode47/Walkie-Talk/blob/main/Imagens%20e%20esquem%C3%A1ticos/walkie%20talk_back.png)  
+
 
 ---
 
