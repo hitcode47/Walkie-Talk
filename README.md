@@ -5,11 +5,11 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 
 ---
 
-## 📌 Objetivo 
-- oferecer uma documentação **didática e funcional**, além de contribuir para a diversificação do acervo de protótipos.  
-- Demonstrar os conceitos de **transmissão e recepção de sinais de rádio**.  
-- Produzir um protótipo de **baixo custo e replicável**, acessível para estudantes.  
-- Apoiar atividades de ensino e extensão com um material prático e interativo.  
+## 📌 Objetivo do protótipo e documentação
+- Demonstrar um modocumentação **didática, funcional, completa e de fácil edição**.
+- Demonstra a importância em separar dodumentação e relatório.
+- Produzir um protótipo acessível para estudantes e que diversifique o acervo do Petee.
+- Apoiar atividades de ensino e extensão com um material prático e interativo.
 
 ---
 ## ⚡ Especificações – Módulo SA828-U  
