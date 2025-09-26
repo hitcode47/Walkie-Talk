@@ -1,22 +1,51 @@
 # 📡 Walkie-Talk
-Protótipo de **rádio comunicador** desenvolvido no âmbito do projeto **PETEE Protótipos (UFMG)**.  
+Este modelo de **rádio comunicador** faz parte de um projeto de melhoria no âmbito da iniciativa **PETEE Protótipos (UFMG)**.  
 
-O objetivo é oferecer um modelo **didático e funcional** para experimentação em **Telecomunicações** e **Eletrônica de Potência**, aplicável em disciplinas e oficinas de extensão.
+O objetivo geral é oferecer uma documentação **didática e funcional**, além de contribuir para a diversificação do acervo de protótipos.  
+
+Como proposta inicial, foi desenvolvido um protótipo voltado à experimentação em **Telecomunicações** e **Eletrônica de Potência**, aplicável em disciplinas e oficinas de extensão.  
 
 ---
 
-## 📌 Objetivo
+## 📌 Objetivo 
 - Demonstrar os conceitos de **transmissão e recepção de sinais de rádio**.  
 - Produzir um protótipo de **baixo custo e replicável**, acessível para estudantes.  
 - Apoiar atividades de ensino e extensão com um material prático e interativo.  
 
 ---
 
-## ⚡ Especificações
-- **Alcance estimado:** ~200 m em campo aberto.  
-- **Banda:** FM de baixa potência.  
-- **Alimentação:** 9V (bateria ou fonte regulada).  
-- **Componentes principais:** oscilador LC, microfone de eletreto, amplificador RF, antena monopolo.  
+## ⚡ Especificações – Módulo SA828-U
+
+- **Faixa de frequência (UHF):** 400 – 480 MHz  
+- **Potência de saída (TX):** até ~1.5 W (≈ 30 a 32.5 dBm)  
+- **Sensibilidade de recepção (RX):** ~–124 dBm  
+- **Alcance estimado:** 3 – 5 km em campo aberto (dependendo da antena e ambiente)  
+- **Alimentação (Vcc):** 3.3 V a 5.5 V (típico 4.2 V)  
+
+### Consumo de Corrente
+- RX: ~60 mA  
+- TX (alta potência): ~800-900 mA  
+- TX (baixa potência): ~350-450 mA  
+- Repouso (sleep): ≤ 3 µA  
+
+### Características de Comunicação
+- Largura de banda selecionável: 12.5 kHz / 25 kHz  
+- Modulação: FM  
+- Rejeição de canal adjacente: –60 dBc a 12.5 kHz  
+- Códigos de áudio:  
+  - CTCSS: 38 níveis  
+  - CDCSS: 166 níveis  
+
+### Áudio
+- Saída de alto-falante: ~2 W  
+- Impedância recomendada: 8 Ω  
+
+### Recursos Extras
+- Controle de potência (alto/baixo) via pino H/L  
+- Configuração via interface UART e software de PC  
+- Oscilador TCXO 1 ppm (alta estabilidade de frequência)  
+- Temperatura de operação: –30 °C a +70 °C  
+
 
 ---
 
