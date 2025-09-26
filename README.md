@@ -77,14 +77,14 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 
 ## 🎥 Mídia  
 
-- **Vídeo 1 – Demonstração básica**  
+- **Vídeo 1 – Visão explodida**  
   ![Vídeo 1](https://github.com/hitcode47/Walkie-Talk/blob/main/V%C3%ADdeos/take1%20-%20vis%C3%A3o%20explidida.mkv)
 
-- **Vídeo 2 – Teste de alcance**  
-  [![Vídeo 2](./media/video2_thumb.png)](https://www.youtube.com/watch?v=VIDEO_ID_2)  
+- **Vídeo 2 – Visão Compacta**  
+  [![Vídeo 2](https://github.com/hitcode47/Walkie-Talk/blob/main/V%C3%ADdeos/take2%20-%20vis%C3%A3o%20compacta.mkv)  
 
-- **Vídeo 3 – Montagem do protótipo**  
-  [![Vídeo 3](./media/video3_thumb.png)](https://www.youtube.com/watch?v=VIDEO_ID_3)  
+- **Vídeo 3 – Visão PCB**  
+  [![Vídeo 3](https://github.com/hitcode47/Walkie-Talk/blob/main/V%C3%ADdeos/take3%20-%20vis%C3%A3o%20placa%20de%20circuito.mkv)  
   
 
 ---
