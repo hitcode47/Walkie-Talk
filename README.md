@@ -51,12 +51,12 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 ## 🧰 Materiais Usados
 | Referência | Quantidade | Valor / Modelo | Descrição                             | Datasheet                                                   |
 | ---------- | ---------- | -------------- | ------------------------------------- | ----------------------------------------------------------- |
-| BT1        | 1          | 1042           | Suporte de bateria                    | –                                                           |
+| BT1        | 1          | 1042           | Suporte de bateria                    | [PDF](https://www.diodes.com/assets/Datasheets/ds30396.pdf) |
 | D1         | 1          | 1N4148WT       | Diodo retificador rápido, 75V / 0.15A | [PDF](https://www.diodes.com/assets/Datasheets/ds30396.pdf) |
-| LS1        | 1          | POM-3542P-R    | Microfone eletreto                    | –                                                           |
-| LS2        | 1          | KSSG2308       | Alto-falante                          | –                                                           |
-| S1         | 1          | PB400OAQR1BLK  | Botão push-button                     | –                                                           |
-| SATRX1     | 1          | SA828U         | Módulo de rádio UHF                   | –                                                           |
+| LS1        | 1          | POM-3542P-R    | Microfone eletreto                    | [PDF](https://www.diodes.com/assets/Datasheets/ds30396.pdf) |
+| LS2        | 1          | KSSG2308       | Alto-falante                          | [PDF](https://www.diodes.com/assets/Datasheets/ds30396.pdf) |
+| S1         | 1          | PB400OAQR1BLK  | Botão push-button                     | [PDF](https://www.diodes.com/assets/Datasheets/ds30396.pdf) |
+| SATRX1     | 1          | SA828U         | Módulo de rádio UHF                   | [PDF](https://www.diodes.com/assets/Datasheets/ds30396.pdf) |
 
 ---
 
