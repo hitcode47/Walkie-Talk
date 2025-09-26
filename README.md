@@ -12,32 +12,40 @@ Como proposta inicial, foi desenvolvido um protótipo voltado à experimentaçã
 - Apoiar atividades de ensino e extensão com um material prático e interativo.  
 
 ---
+## ⚡ Especificações – Módulo SA828-U  
 
-## ⚡ Especificações – Módulo SA828-U
+| Categoria                     | Especificação |
+|-------------------------------|---------------|
+| **Faixa de frequência (UHF)** | 400 – 480 MHz |
+| **Potência de saída (TX)**    | até ~1.5 W (≈ 30 a 32.5 dBm) |
+| **Sensibilidade (RX)**        | ~–124 dBm |
+| **Alcance estimado**          | 3 – 5 km em campo aberto (dependendo da antena e ambiente) |
+| **Alimentação (Vcc)**         | 3.3 V a 5.5 V (típico 4.2 V) |
 
-- **Faixa de frequência (UHF):** 400 – 480 MHz  
-- **Potência de saída (TX):** até ~1.5 W (≈ 30 a 32.5 dBm)  
-- **Sensibilidade de recepção (RX):** ~–124 dBm  
-- **Alcance estimado:** 3 – 5 km em campo aberto (dependendo da antena e ambiente)  
-- **Alimentação (Vcc):** 3.3 V a 5.5 V (típico 4.2 V)  
+### Consumo de Corrente  
 
-### Consumo de Corrente
-- RX: ~60 mA  
-- TX (alta potência): ~800-900 mA  
-- TX (baixa potência): ~350-450 mA  
-- Repouso (sleep): ≤ 3 µA  
+| Modo                  | Corrente típica |
+|------------------------|-----------------|
+| RX                     | ~60 mA |
+| TX (alta potência)     | ~800 – 900 mA |
+| TX (baixa potência)    | ~350 – 450 mA |
+| Repouso (sleep)        | ≤ 3 µA |
 
-### Características de Comunicação
-- Largura de banda selecionável: 12.5 kHz / 25 kHz  
-- Modulação: FM  
-- Rejeição de canal adjacente: –60 dBc a 12.5 kHz  
-- Códigos de áudio:  
-  - CTCSS: 38 níveis  
-  - CDCSS: 166 níveis  
+### Comunicação  
 
-### Áudio
-- Saída de alto-falante: ~2 W  
-- Impedância recomendada: 8 Ω  
+| Parâmetro                  | Especificação |
+|-----------------------------|---------------|
+| Largura de banda            | 12.5 kHz / 25 kHz |
+| Modulação                   | FM |
+| Rejeição de canal adjacente | –60 dBc a 12.5 kHz |
+| Códigos de áudio            | CTCSS (38 níveis), CDCSS (166 níveis) |
+
+### Áudio  
+
+| Parâmetro                  | Especificação |
+|-----------------------------|---------------|
+| Saída do alto-falante       | ~2 W |
+| Impedância recomendada       | 8 Ω |
 
 ### Recursos Extras
 - Controle de potência (alto/baixo) via pino H/L  
