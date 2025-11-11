@@ -1,5 +1,5 @@
 # 📡 Walkie-Talk
- - Este modelo de rádio comunicador faz parte da proposta de projeto calouros e visa o enriquecimento de melhoria do acervo no âmbito da iniciativa PETEE Protótipos (UFMG). Como proposta inicial, será desenvolvido um protótipo voltado à experimentação em Telecomunicações e Eletrônica de Potência, aplicável em disciplinas e oficinas de extensão. O modelo consiste em um protótipo de circuitos gêmeos, criados aos pares ou mais, em cada um deles, além dos periféricos de comunicação, haverá um módulo transceptor que, quando operando na mesma frequência, será capaz de manter um canal de comunicação.
+ - Este modelo de rádio comunicador faz parte da proposta de projeto calouros e visa o enriquecimento e melhoria do acervo no âmbito da iniciativa PETEE Protótipos (UFMG). Como proposta inicial, será desenvolvido um protótipo voltado à experimentação em Telecomunicações e Eletrônica de Potência, aplicável em disciplinas e oficinas de extensão. O modelo consiste em um protótipo de circuitos gêmeos, criados aos pares ou mais, em cada um deles, além dos periféricos de comunicação, haverá um módulo transceptor que, quando operando na mesma frequência, será capaz de manter um canal de comunicação.
 ---
 
 ## 📌 Objetivo do protótipo e documentação
